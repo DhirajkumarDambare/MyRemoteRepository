@@ -1,4 +1,4 @@
-class B extends A
+class B
 {
     B()
     {
