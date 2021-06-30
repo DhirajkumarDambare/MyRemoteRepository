@@ -28,5 +28,7 @@ class Abc
     public static void main(String args[])
     {
         B b1 = new B("abc");
+	System.out.println("B(String)");
+	System.out.println("A(String)");
     }
 }
